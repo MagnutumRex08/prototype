@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="@nkqGDKH!({El7Mh]F_U" x="0" y="0"><statement name="HANDLER"><block type="music_playable_play" id="ic=F@pH=Z)E}kIy2~w0/"><field name="playbackMode">music.PlaybackMode.InBackground</field><value name="toPlay"><shadow type="soundExpression_builtinPlayableSoundEffect" id="k2L@C_UjGWOf0S0tK!7#"><field name="soundExpression">soundExpression.yawn</field></shadow></value><next><block type="device_show_leds" id="+~;6~hjWP[TF4PKVc7uh"><field name="LEDS">`
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="mhk63#RPH*!%28oE`h(w"><field name="i">IconNames.Surprised</field><next><block type="device_show_leds" id="-MmebY5VE|W7+v|E75G/"><field name="LEDS">`
+        . . . . . 
+        # # . # # 
+        . # # # . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="music_playable_play" id="=r!R`#EL[5s)=g(=^DaD"><field name="playbackMode">music.PlaybackMode.InBackground</field><value name="toPlay"><shadow type="soundExpression_builtinPlayableSoundEffect" id="Nky),V|7H13Xh/{Rp/uC"><field name="soundExpression">soundExpression.giggle</field></shadow><block type="soundExpression_builtinPlayableSoundEffect" id="7?bZNF:a+cM$pkL+#,m:"><field name="soundExpression">soundExpression.hello</field></block></value></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id=":_()/x7_.Rj/#eV*GC0Z" x="471" y="103"><statement name="HANDLER"><block type="basic_show_icon" id="gBX+?pIY/t~0$t@wO~_U"><field name="i">IconNames.Happy</field></block></statement></block></xml>
